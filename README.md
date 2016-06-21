@@ -1,4 +1,4 @@
-# ssh botnet c&c 
+# ssh botnet 
 add ssh credentials into 'creds.txt' file and run './script.py'
 
 ## Example
