@@ -1,7 +1,7 @@
 # ssh botnet c&c 
 ssh botnet c&amp;c
 
-'''shell
+```shell
 root@kali:~/script/ssh_botnet# ./script.py 
 Loading hosts...
 
@@ -97,4 +97,4 @@ Last login: Tue Jun 21 10:38:12 2016 from localhost
 root@kali:~# id
 uid=0(root) gid=0(root) groups=0(root)
 root@kali:~#
-'''
+```
