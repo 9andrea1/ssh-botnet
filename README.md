@@ -1,6 +1,7 @@
 # ssh botnet c&c 
-ssh botnet c&amp;c
+add ssh credentials into 'creds.txt' file and run './script.py'
 
+## Example
 ```shell
 root@kali:~/script/ssh_botnet# ./script.py 
 Loading hosts...
