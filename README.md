@@ -43,10 +43,10 @@ ID    | Host                           | SysInfo
 
 
 Active Hosts:
-ID	    Host			    Status
-----	---------------		---------------------
-0	root@127.0.0.1:22	12:07:32 up  2:42,  3 users,  load average: 0.42, 0.29, 0.29
-1	root@192.168.6.100:22	12:07:33 up 227 days, 22:59,  1 user,  load average: 0.23, 0.06, 0.06
+ID	    Host			        Status
+----	---------------		    ---------------------
+0	    root@127.0.0.1:22	    12:07:32 up  2:42,  3 users,  load average: 0.42, 0.29, 0.29
+1	    root@192.168.6.100:22	12:07:33 up 227 days, 22:59,  1 user,  load average: 0.23, 0.06, 0.06
 
 
 [0] List Hosts
